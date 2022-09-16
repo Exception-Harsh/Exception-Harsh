@@ -1,3 +1,4 @@
+![logo](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png)
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">A passionate learner and Web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
