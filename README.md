@@ -3,4 +3,5 @@
 - 🔭 I’m currently working on App Development using Java
 - 🌱 I’m currently learning Python and DSA
 
-Languages Learned: https://www.java.com/en/
+Languages Learned: 
+https://www.oracle.com/java/
