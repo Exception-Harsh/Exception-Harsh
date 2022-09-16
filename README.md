@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Exception-Harsh/Exception-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👋 I'm Harsh Singh
 - 🔭 I’m currently working on App Development using Java
 - 🌱 I’m currently learning Java, Python and DSA
 - 👯 I’m looking to collaborate on ...
